@@ -47,7 +47,7 @@ function App() {
       next={info.next}
       onPrevious={onPrevious}
       onNext={onNext}/>
-      <h1>hola</h1>
+      
       
      </div>
     
